@@ -1,0 +1,24 @@
+{
+  "name": "weekfiveargv-fsjs",
+  "version": "1.0.0",
+  "description": "use of tokens, init, event logs, templates for json etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinAugot/WeekFiveArgv-FSJS.git"
+  },
+  "author": "Devin Augot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevinAugot/WeekFiveArgv-FSJS/issues"
+  },
+  "homepage": "https://github.com/DevinAugot/WeekFiveArgv-FSJS#readme",
+  "dependencies": {
+    "crc": "^4.3.2",
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
